@@ -1,2 +1,7 @@
 Este es un archivo de prueba.
 Linea agregada.
+
+Agrego una nueva linea para hacer un merge.
+
+
+Cambio esta linea para generar el conflicto.
